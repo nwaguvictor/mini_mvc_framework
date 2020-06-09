@@ -1,0 +1,154 @@
+[09-Jun-2020 21:21:46 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'Controller class 'App\Controllers\PostController' not found' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\public\index.php(52): Core\Router->dispatch('/post/hi')
+#1 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\Router.php' on line 109
+
+
+[09-Jun-2020 21:21:51 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'Controller class 'App\Controllers\PostController' not found' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\public\index.php(52): Core\Router->dispatch('/post/hi')
+#1 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\Router.php' on line 109
+
+
+[09-Jun-2020 21:22:50 Europe/Berlin] Uncaught exception: 'Exception' with message:'Controller class 'App\Controllers\PostController' not found' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\public\index.php(52): Core\Router->dispatch('/post/hi')
+#1 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\Router.php' on line 109
+
+
+[09-Jun-2020 21:34:57 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'Controller class 'App\Controllers\PostController' not found' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/post/hi')
+#1 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\Router.php' on line 109
+[09-Jun-2020 21:42:15 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'Controller class 'App\Controllers\PostController' not found' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/post/hi')
+#1 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\Router.php' on line 109
+[09-Jun-2020 21:42:30 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'No route matched' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/posts/index/4')
+#1 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\Router.php' on line 113
+[09-Jun-2020 21:43:54 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'No route matched' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/posts/index/4')
+#1 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\Router.php' on line 113
+[09-Jun-2020 21:43:57 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'No route matched' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/post')
+#1 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\Router.php' on line 113
+[09-Jun-2020 21:44:00 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'No route matched' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/posts')
+#1 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\Router.php' on line 113
+[09-Jun-2020 21:44:05 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'Method 'huAction' not found in App\Controllers\PostsController' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\Core\Router.php(102): Core\BaseController->__call('hu', Array)
+#1 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/posts/hu')
+#2 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\BaseController.php' on line 43
+[09-Jun-2020 21:44:35 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'Method 'huAction' not found in App\Controllers\PostsController' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\Core\Router.php(102): Core\BaseController->__call('hu', Array)
+#1 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/posts/hu')
+#2 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\BaseController.php' on line 43
+[09-Jun-2020 21:44:40 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'No route matched' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/posts/index/4')
+#1 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\Router.php' on line 113
+[09-Jun-2020 21:44:46 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'No route matched' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/posts/index/hi')
+#1 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\Router.php' on line 113
+[09-Jun-2020 21:44:49 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'Method 'indeAction' not found in App\Controllers\PostsController' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\Core\Router.php(102): Core\BaseController->__call('inde', Array)
+#1 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/posts/inde')
+#2 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\BaseController.php' on line 43
+[09-Jun-2020 21:44:57 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'No route matched' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/post')
+#1 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\Router.php' on line 113
+[09-Jun-2020 21:45:00 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'No route matched' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/hi')
+#1 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\Router.php' on line 113
+[09-Jun-2020 21:45:40 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'No route matched' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/hi')
+#1 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\Router.php' on line 113
+[09-Jun-2020 21:45:47 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'No route matched' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/posts')
+#1 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\Router.php' on line 113
+[09-Jun-2020 21:45:52 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'Method 'indeAction' not found in App\Controllers\PostsController' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\Core\Router.php(102): Core\BaseController->__call('inde', Array)
+#1 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/posts/inde')
+#2 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\BaseController.php' on line 43
+[09-Jun-2020 21:46:10 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'No route matched' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/posts')
+#1 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\Router.php' on line 113
+[09-Jun-2020 21:46:16 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'No route matched' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/home')
+#1 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\Router.php' on line 113
+[09-Jun-2020 21:48:06 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'No route matched' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/tt')
+#1 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\Router.php' on line 113
+[09-Jun-2020 21:48:11 Europe/Berlin] Uncaught exception: 'Twig\Error\LoaderError' with message: <pre>'Unable to find template "Posts/inde.php" (looked into: ../App/Views).' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('Posts/inde.php')
+#1 E:\XAMPP\htdocs\mvc_framework\vendor\twig\twig\src\Environment.php(261): Twig\Loader\FilesystemLoader->getCacheKey('Posts/inde.php')
+#2 E:\XAMPP\htdocs\mvc_framework\vendor\twig\twig\src\Environment.php(309): Twig\Environment->getTemplateClass('Posts/inde.php')
+#3 E:\XAMPP\htdocs\mvc_framework\vendor\twig\twig\src\Environment.php(277): Twig\Environment->load('Posts/inde.php')
+#4 E:\XAMPP\htdocs\mvc_framework\Core\View.php(45): Twig\Environment->render('Posts/inde.php', Array)
+#5 E:\XAMPP\htdocs\mvc_framework\App\Controllers\PostsController.php(22): Core\View::renderTemplate('Posts/inde.php', Array)
+#6 [internal function]: App\Controllers\PostsController->indexAction()
+#7 E:\XAMPP\htdocs\mvc_framework\Core\BaseController.php(38): call_user_func_array(Array, Array)
+#8 E:\XAMPP\htdocs\mvc_framework\Core\Router.php(102): Core\BaseController->__call('index', Array)
+#9 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/posts/index')
+#10 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\vendor\twig\twig\src\Loader\FilesystemLoader.php' on line 227
+[09-Jun-2020 21:56:50 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'No route matched' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/posts/index/4')
+#1 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\Router.php' on line 113
+[09-Jun-2020 21:56:50 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "404.php" (looked into: ../App/Views). in E:\XAMPP\htdocs\mvc_framework\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 E:\XAMPP\htdocs\mvc_framework\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('404.php')
+#1 E:\XAMPP\htdocs\mvc_framework\vendor\twig\twig\src\Environment.php(261): Twig\Loader\FilesystemLoader->getCacheKey('404.php')
+#2 E:\XAMPP\htdocs\mvc_framework\vendor\twig\twig\src\Environment.php(309): Twig\Environment->getTemplateClass('404.php')
+#3 E:\XAMPP\htdocs\mvc_framework\vendor\twig\twig\src\Environment.php(277): Twig\Environment->load('404.php')
+#4 E:\XAMPP\htdocs\mvc_framework\Core\View.php(45): Twig\Environment->render('404.php', Array)
+#5 E:\XAMPP\htdocs\mvc_framework\Core\Error.php(60): Core\View::renderTemplate('404.php')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in E:\XAMPP\htdocs\mvc_framework\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[09-Jun-2020 21:57:09 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'No route matched' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/posts/index/4')
+#1 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\Router.php' on line 113
+[09-Jun-2020 21:57:13 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'No route matched' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/posts/index/4')
+#1 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\Router.php' on line 113
+[09-Jun-2020 21:57:23 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'No route matched' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/posts/4')
+#1 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\Router.php' on line 113
+[09-Jun-2020 21:57:54 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'No route matched' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/posts/4')
+#1 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\Router.php' on line 113
+[09-Jun-2020 21:58:35 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'No route matched' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/posts/4')
+#1 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\Router.php' on line 113
+[09-Jun-2020 21:58:51 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'No route matched' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/posts/4')
+#1 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\Router.php' on line 113
+[09-Jun-2020 21:58:59 Europe/Berlin] Uncaught exception: 'Exception' with message: <pre>'No route matched' 
+Stack Trace: '#0 E:\XAMPP\htdocs\mvc_framework\public\index.php(32): Core\Router->dispatch('/posts/4')
+#1 {main}'
+Throw in 'E:\XAMPP\htdocs\mvc_framework\Core\Router.php' on line 113
